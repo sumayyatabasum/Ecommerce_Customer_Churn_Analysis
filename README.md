@@ -50,8 +50,7 @@ Ecommerce_Customer_Churn_Analysis/
 │   ├── 02_Feature_Engineering.sql
 │   └── 03_EDA.sql
 │
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ---
